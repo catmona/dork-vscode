@@ -1,0 +1,21 @@
+{
+  "name": "dork",
+  "displayName": "dork",
+  "description": "a dorky theme for dorky peeps",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dork",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dork-color-theme.json"
+      }
+    ]
+  }
+}
